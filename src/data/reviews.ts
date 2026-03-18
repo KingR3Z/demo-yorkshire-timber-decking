@@ -12,15 +12,15 @@ export const reviewsSummary = {
   totalReviews: 1,
   averageRating: 5.0,
   fiveStarPercentage: 100,
-  googleReviewUrl: "#",
+  googleReviewUrl: "https://search.google.com/local/writereview?placeid=ChIJN1t_tDEuekgRhVJ5p6EuZe0",
 };
 
 export const reviews: Review[] = [
   {
     id: 1,
-    name: "Verified Customer",
-    date: "2025",
+    name: "Paul",
+    date: "2021",
     rating: 5,
-    text: "Excellent work from The Yorkshire Timber Decking Company. Professional, reliable and the finished deck looks absolutely stunning. Highly recommended for anyone in Sheffield looking for quality timber work.",
+    text: "Positive: Responsiveness, Punctuality, Quality, Professionalism.",
   },
 ];

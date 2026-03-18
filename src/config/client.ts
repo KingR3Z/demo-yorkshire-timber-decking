@@ -21,7 +21,9 @@ export const client = {
     link: "https://wa.me/447770776054",
   },
   address: [
+    "105 Greystones Rd",
     "Sheffield",
+    "S11 7BS",
     "South Yorkshire",
   ],
   region: "Sheffield and South Yorkshire",
