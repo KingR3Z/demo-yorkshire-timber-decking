@@ -27,7 +27,7 @@ export default function GardenDesignPage() {
     <InnerPageLayout>
       <PageHero
         title="Our Services"
-        subtitle={`Lawn care, hedge trimming, fencing & garden maintenance across ${client.basedIn}`}
+        subtitle={`Timber decking, fencing, pergolas & landscaping across ${client.basedIn}`}
         image="/images/garden-premium-v2.jpg"
       />
 
