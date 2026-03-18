@@ -261,7 +261,7 @@ export default function PortfolioPage() {
             className="mt-4 max-w-lg mx-auto"
             style={{ color: "rgba(0,0,0,0.45)", fontSize: "14px", lineHeight: 1.8 }}
           >
-            Garden maintenance, hedge trimming, fencing and landscaping projects across {client.basedIn}
+            Timber decking, fencing, pergolas and landscaping projects across {client.basedIn}
           </p>
         </div>
       </section>

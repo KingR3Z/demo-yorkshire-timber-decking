@@ -413,7 +413,7 @@ export default function ContactPage() {
                   fontFamily: "var(--font-body)",
                 }}
               >
-                Ready to transform your garden?
+                Ready to transform your outdoor space?
               </h4>
               <p
                 className="form-reveal reveal-item mb-5 leading-relaxed"
