@@ -73,7 +73,7 @@ export default function Hero() {
     <section
       ref={sectionRef}
       className="relative w-full overflow-hidden"
-      style={{ height: "calc(100vh - clamp(70px, 12vh, 100px))", marginTop: "clamp(70px, 12vh, 100px)", minHeight: "500px", backgroundImage: "url(/images/hero-bg-v2.jpg)", backgroundSize: "cover", backgroundPosition: "center" }}
+      style={{ height: "calc(100vh - clamp(70px, 12vh, 100px))", marginTop: "clamp(70px, 12vh, 100px)", minHeight: "500px" }}
     >
       {/* Background Video — project-03 herringbone block paving, animated with Kling 3.0 */}
       {videoSrc && (
